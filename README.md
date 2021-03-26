@@ -18,10 +18,10 @@ I am a developer and lover of programming. I like computers, philosophy, chocola
 ### EletivasPRO
 Project to help schools in the EEMTI Regular standard in Brazil with electives.
 
-[![EletivasPRO](https://github-readme-stats.vercel.app/api/pin/?username=flavioVitoriano&repo=EletivasPro&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
+[![EletivasPRO](https://github-readme-stats.vercel.app/api/pin/?username=flavioVitoriano&repo=EletivasPro&show_owner=true)](https://github.com/flavioVitoriano/EletivasPro)
 
 ### AcquaAPI and AcquaMOBILE
 API and mobile app for managing water sales stores.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=flavioVitoriano&repo=acquaapi&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=flavioVitoriano&repo=acquamobile&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=flavioVitoriano&repo=acquaapi&show_owner=true)](https://github.com/flavioVitoriano/acquaapi)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=flavioVitoriano&repo=acquamobile&show_owner=true)](https://github.com/flavioVitoriano/acquamobile)
