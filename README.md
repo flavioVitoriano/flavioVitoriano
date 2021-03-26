@@ -36,7 +36,7 @@ I am a backend and frontend developer. I like programming, computers, philosophy
 [![Flávio Vitoriano](https://github-readme-stats.vercel.app/api?username=flavioVitoriano&show_icons=true&count_private=true)](https://github.com/anandmainali)
 
 ## A little of my work
-**PS: Some of the repos are in Brazilian Portuguese ^^**
+**PS: Some of the repos are in Portuguese ^^**
 
 
 ### AcquaAPI and AcquaMOBILE
