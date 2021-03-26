@@ -25,3 +25,8 @@ API and mobile app for managing water sales stores.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=flavioVitoriano&repo=acquaapi&show_owner=true)](https://github.com/flavioVitoriano/acquaapi)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=flavioVitoriano&repo=acquamobile&show_owner=true)](https://github.com/flavioVitoriano/acquamobile)
+
+## Contact
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/flavioVitoriano)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fl%C3%A1vio-vitoriano-28b6a41b0/)
