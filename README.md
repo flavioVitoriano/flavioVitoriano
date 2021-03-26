@@ -24,10 +24,4 @@ Project to help schools in the EEMTI Regular standard in Brazil with electives.
 API and mobile app for managing water sales stores.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=flavioVitoriano&repo=acquaapi&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=flavioVitoriano&repo=acquamobile&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-
-### Todo app
-Simple todo app to play with react.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=flavioVitoriano&repo=todo-app&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
