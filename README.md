@@ -35,21 +35,6 @@ I am a backend and frontend developer. I like programming, computers, philosophy
 ## Github status
 [![Flávio Vitoriano](https://github-readme-stats.vercel.app/api?username=flavioVitoriano&show_icons=true&count_private=true)](https://github.com/anandmainali)
 
-## A little of my work
-**PS: Some of the repos are in Portuguese ^^**
-
-
-### AcquaAPI and AcquaMOBILE
-API and mobile app for managing water sale business.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=flavioVitoriano&repo=acquaapi&show_owner=true)](https://github.com/flavioVitoriano/acquaapi)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=flavioVitoriano&repo=acquamobile&show_owner=true)](https://github.com/flavioVitoriano/acquamobile)
-
-### EletivasPRO
-Project to help schools in the EEMTI Regular standard in Brazil with electives.
-
-[![EletivasPRO](https://github-readme-stats.vercel.app/api/pin/?username=flavioVitoriano&repo=EletivasPro&show_owner=true)](https://github.com/flavioVitoriano/EletivasPro)
-
 ## Contact
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flavioVitoriano)
