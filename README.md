@@ -7,7 +7,7 @@ My name is Flávio Vitoriano, and welcome to my personal page on github!
 ## About me
 I am a backend and frontend developer. I like programming, computers, philosophy, chocolate :chocolate_bar:, games :video_game: , and bits.
 
-> Software Engineer at [Instituto Atlântico](https://www.atlantico.com.br/)
+> Software Engineer at [Cognizant](https://www.cognizant.com/en-br/)
 
 * [My portfolio :sunglasses:](https://flaviovitoriano.github.io/portfolio/)
 
